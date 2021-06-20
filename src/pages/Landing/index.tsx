@@ -8,7 +8,7 @@ import giveClassesIcon from '../../assets/images/icons/give-classes.png';
 import purpleHeartIcon from '../../assets/images/icons/heart.png';
 
 import './styles.css';
-
+//teste
 function Landing() {
     return (
         <div id="page-landing">
